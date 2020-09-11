@@ -1,5 +1,4 @@
-# acse-5-assignment-std-overflow
-acse-5-assignment-std-overflow created by GitHub Classroom
+# C++ Linear Solvers Group Project
 
 ## Introduction
 This project required the design and implementation of a C++ library for solving linear systems Ax=b, where A is a positive definite matrix. In this library, the following solver routines have been implemented:
@@ -11,7 +10,7 @@ This project required the design and implementation of a C++ library for solving
 ## Installation:
 Clone the repository from Github by either:
 * Using command line:
-`git clone https://github.com/acse-2019/acse-5-assignment-std-overflow.git`
+`git clone https://github.com/EllyessB/linear-solvers.git`
 * Downloading the repository as a .zip
 
 ## Usage:
@@ -162,7 +161,7 @@ Sparse matrices can be converted to dense matrices using the CSRMatrix class met
 
 ## Further information:
 
-The project report in this repository contains further information about the code design, a discussion of the solver routines and compares performance of the solvers. More detailed documentation for each method in the code can be found in the relevant .cpp and .h files.
+More detailed documentation for each method in the code can be found in the relevant .cpp and .h files.
 
 ## Credits:
-Team std-overflow: Ollie Bell, Ellyess Benmoufok and Nadya Mere
+Group: Ollie Bell, Ellyess Benmoufok and Nadya Mere
